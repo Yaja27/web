@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>🌸 ShairaK Beauty - Próximamente 🌸</title>
+    <meta http-equiv="refresh" content="5;url=menu.php"> <!-- Redirige en 5 segundos -->
     <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Quicksand:wght@400;600&display=swap" rel="stylesheet">
     <style>
         body {
@@ -60,7 +61,7 @@
 <body>
     <h1>🌸 ShairaK Beauty 🌸</h1>
     <p>Muy pronto descubrirás la magia del maquillaje coreano con estilo 💖</p>
-    <div class="soon">Sitio en construcción... vuelve pronto ✨</div>
-    <div class="footer">© 2025 Yajaira & Laisha | ShairaK Beauty</div>
+   
 </body>
 </html>
+
